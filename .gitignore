@@ -1,0 +1,17 @@
+*.pdf
+*.exe
+*.zip
+*.torrent
+*.docx
+*.pptx
+*.srt
+*.png
+*.jpg
+*.jpeg
+*.crdownload
+*.webp
+*.msi
+*.mp4
+*.mkv
+*.glb
+.idea/
