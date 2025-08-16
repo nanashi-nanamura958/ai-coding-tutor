@@ -6,7 +6,6 @@ AI Coding Tutor is a simple Streamlit app that acts as your personal coding assi
 - Time and space complexity analysis
 - Example inputs and outputs
 - Edge cases to consider
-
 ## How to Run
 
 1. Clone this repository:
